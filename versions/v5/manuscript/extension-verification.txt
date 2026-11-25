@@ -1,0 +1,15 @@
+Sixth-root polynomial factorization: exact.
+Nonzero integer coefficient triples in [-4,4]^3: 728; none has sixth power zero.
+The characteristic-zero field criterion is proved in Corollary 2.
+59-element example: nonzero product-set sizes [3, 6, 10, 15, 21, 3].
+49-element example: nonzero product-set sizes [3, 6, 9, 12, 15, 3].
+Four-element semigroup N: all 64 triples have both products zero; pq=r and qp=0.
+Embedding into the 196-element direct product: all 2401 pairs.
+Exponent 6: sizes 59, 49; disjoint terminal lists and exact cancellation.
+Exponent 12: sizes 367, 202; disjoint terminal lists and exact cancellation.
+Exponent 18: sizes 1143, 463; disjoint terminal lists and exact cancellation.
+Exponent 24: sizes 2603, 832; disjoint terminal lists and exact cancellation.
+Exponent 30: sizes 4963, 1309; disjoint terminal lists and exact cancellation.
+Exponent 60: sizes 37823, 5314; disjoint terminal lists and exact cancellation.
+All multiples of six are covered by the written proof of Corollary 3.
+All supplemental finite checks passed with exact integer arithmetic.

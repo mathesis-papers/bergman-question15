@@ -1,0 +1,23 @@
+{
+  "id": "bergman-question15",
+  "revision": 5,
+  "problem_ids": [
+    "bergman-question15"
+  ],
+  "topic": "Bergman's Question 15 on powers in contracted semigroup algebras",
+  "title": "Examples answering Bergman's Question 15 by extending a partition of von zur Gathen and Roche",
+  "creators": [
+    {
+      "name": "Haobo Ma",
+      "affiliation": "ChronoAI Pte Ltd, Singapore"
+    },
+    {
+      "name": "Wenlin Zhang",
+      "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore"
+    }
+  ],
+  "abstract": "We answer Question 15 of George M. Bergman's Thoughts on Eggert's Conjecture, arXiv:1206.0326v2, Section 4, printed page 6, in the negative, including over Q by extending a binomial partition of von zur Gathen and Roche (1997, Table 2, p. 359) to a semigroup. A 59-element commutative semigroup and a 49-element quotient have three generators with distinct nonzero sixth powers but a nonzero linear combination whose sixth power is zero. For these presentations over a characteristic-zero field, the cancellation exists exactly when the field contains a primitive cube root of unity. The construction extends to every positive exponent divisible by six. The older partition yields a 632-element two-generator example at exponent 35 over every characteristic-zero field.",
+  "summary": "Written proofs give the cyclic 59-element example, 49-element quotient, coefficient-field criterion, multiples-of-six family, 196-element noncommutative example and Question-11 compatibility. A published partition of von zur Gathen and Roche (1997) yields a 632-element rational-field example; the square-zero identity of Almeida et al. (2007) yields strictly noncommutative nilpotent examples of 2n+1 elements for all n>=2. Appendix A gives the different 59-element partition used by the linked Lean declaration, its full cancellation and worked products. Exact finite checks cover all displayed examples and stated instances; the cyclic presentation, quotient and extensions have written proofs.",
+  "license": "cc-by-4.0",
+  "evidence_url": "https://arxiv.org/abs/1206.0326v2"
+}

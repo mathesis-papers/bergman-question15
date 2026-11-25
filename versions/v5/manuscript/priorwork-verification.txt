@@ -1,0 +1,11 @@
+Published n=35 folded vector and unfolding: exact; endpoints separated.
+Folded, selected and complementary signed binomial sums: all zero.
+Identity C(34,15)=2*C(34,13): exact.
+Commutative example: 632 elements; all 399424 ordered products checked.
+All 72 terminal-monomial/generator congruence checks pass.
+Distinct generator powers A,B; (x-y)^35=0 by repeated multiplication; nilpotency index 36.
+Right-zero truncation n=2: 5 elements; all 125 associativity triples; square-zero difference.
+Right-zero truncation n=3: 7 elements; all 343 associativity triples; square-zero difference.
+Right-zero truncation n=6: 13 elements; all 2197 associativity triples; square-zero difference.
+The general constructions and associativity are proved in note.tex.
+All prior-identity consequence checks passed with exact integer arithmetic.

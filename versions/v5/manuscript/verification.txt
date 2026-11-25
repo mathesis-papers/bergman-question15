@@ -1,0 +1,18 @@
+Semigroup elements: 59; contracted algebra dimension: 58.
+Closure, commutativity and rotation: all 3481 ordered pairs.
+Associativity: all 205379 ordered triples.
+Zero element, terminal annihilation and selected products: satisfied.
+Generator sixth powers: x -> x^6, y -> y^6, z -> z^6; distinct and nonzero.
+All seven-factor products: zero; nilpotency index: seven.
+Nonzero terms in u^1 through u^6: 3, 6, 10, 15, 21, 0.
+Semigroup elements: 49; contracted algebra dimension: 48.
+Closure, commutativity and rotation: all 2401 ordered pairs.
+Associativity: all 117649 ordered triples.
+Zero element, terminal annihilation and selected products: satisfied.
+Generator sixth powers: x -> x^6, y -> y^6, z -> z^6; distinct and nonzero.
+All seven-factor products: zero; nilpotency index: seven.
+Nonzero terms in u^1 through u^6: 3, 6, 9, 12, 15, 0.
+Each terminal coefficient has residue weights [21, 21, 21].
+Each coefficient equals 21*(1+t+t^2) = 0 in Z[t]/(t^2+t+1).
+Adding xyz=0 removes exactly ten elements; quotient map: all 3481 pairs.
+All finite checks passed with exact integer arithmetic.

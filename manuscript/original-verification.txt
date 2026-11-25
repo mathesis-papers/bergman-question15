@@ -1,0 +1,9 @@
+Semigroup elements: 59; contracted algebra dimension: 58.
+Closure and commutativity: all 3481 ordered pairs.
+Associativity: all 205379 ordered triples.
+Absorbing zero: all 59 elements on both sides.
+Generator sixth powers: x -> A, y -> B, z -> C.
+Nonzero terms in w^1 through w^6: 3, 6, 10, 15, 21, 0.
+A, B and C coefficient sums: 21*(1+t+t^2) = 0.
+The displayed multiplication examples hold.
+All finite checks passed with exact integer arithmetic.

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, cite it."
+title: "Examples answering Bergman's Question 15 by extending a partition of von zur Gathen and Roche"
+authors:
+  - name: "Haobo Ma"
+  - name: "Wenlin Zhang"
+date-released: "2026-11-25"
+version: "5"
+url: "https://mathesis-omega-research.apps.chrono-ai.fun/papers/bergman-question15?version=5"
+license: "CC-BY-4.0"

@@ -1,0 +1,63 @@
+{
+  "files": {
+    "pdf": {
+      "bytes": 83418,
+      "matches_public": true,
+      "path": "paper.pdf",
+      "public_sha256": "2524ac2643eafcc31569868a5457f158baa2768dc956d8c7e38e551f79fe8d15",
+      "sha256": "2524ac2643eafcc31569868a5457f158baa2768dc956d8c7e38e551f79fe8d15"
+    },
+    "source": {
+      "bytes": 23777,
+      "matches_public": true,
+      "path": "source.archive",
+      "public_sha256": "96291f9ad19b97caefcc2584fb5cb45610a8f99e4df3872e4500a8766b456968",
+      "sha256": "96291f9ad19b97caefcc2584fb5cb45610a8f99e4df3872e4500a8766b456968"
+    }
+  },
+  "source_identity": "Mathesis public projection",
+  "work": {
+    "abstract_text": "We answer Question 15 of George M. Bergman's Thoughts on Eggert's Conjecture, arXiv:1206.0326v2, Section 4, printed page 6, in the negative, including over Q by extending a binomial partition of von zur Gathen and Roche (1997, Table 2, p. 359) to a semigroup. A 59-element commutative semigroup and a 49-element quotient have three generators with distinct nonzero sixth powers but a nonzero linear combination whose sixth power is zero. For these presentations over a characteristic-zero field, the cancellation exists exactly when the field contains a primitive cube root of unity. The construction extends to every positive exponent divisible by six. The older partition yields a 632-element two-generator example at exponent 35 over every characteristic-zero field.",
+    "authors": [
+      {
+        "affiliation": "ChronoAI Pte Ltd, Singapore",
+        "name": "Haobo Ma"
+      },
+      {
+        "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore",
+        "name": "Wenlin Zhang"
+      }
+    ],
+    "concept_doi": null,
+    "current_version": 5,
+    "doi": null,
+    "lean_source": null,
+    "license": "CC-BY-4.0",
+    "msc": [],
+    "pdf": {
+      "bytes": 83418,
+      "sha256": "2524ac2643eafcc31569868a5457f158baa2768dc956d8c7e38e551f79fe8d15",
+      "url": "/api/v1/collected-papers/bergman-question15/files/pdf?version=5"
+    },
+    "previous_version": null,
+    "publication": "public",
+    "published_on": "2026-11-25T16:39:55.755803Z",
+    "record": "bergman-question15",
+    "repository_name": "bergman-question15",
+    "source": {
+      "bytes": 23777,
+      "sha256": "96291f9ad19b97caefcc2584fb5cb45610a8f99e4df3872e4500a8766b456968",
+      "url": "/api/v1/collected-papers/bergman-question15/files/source?version=5"
+    },
+    "title": "Examples answering Bergman's Question 15 by extending a partition of von zur Gathen and Roche",
+    "versions": [
+      {
+        "previous_version": null,
+        "published_on": "2026-11-25T16:39:55.755803Z",
+        "revision": "5",
+        "version": 5
+      }
+    ],
+    "work": "bergman-question15"
+  }
+}
