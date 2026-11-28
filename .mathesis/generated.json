@@ -40,9 +40,9 @@
     "manuscript/verify_extensions.py": "334aa16b51addf340dedbfbea70aa964dda4514a2afcd7757f03295aa57ae215",
     "manuscript/verify_original.py": "289f71a06ecba497880de85c317f0c9d0d3a24de72aa738dca46d195d3a553c3",
     "manuscript/verify_priorwork.py": "d04f63139db572326e06380f5787d5256aceb75c3bc7aa9fca856f4a7a8d74d8",
-    "paper.json": "1db9e5f8216d03b516321b815146f260c2ad944b6f89e83353dc77cde095cc27",
+    "paper.json": "50b387f9aaf8f0cf37c06e3725d33002c881ba6f965acee299f3f0d02f5cc222",
     "paper.pdf": "2524ac2643eafcc31569868a5457f158baa2768dc956d8c7e38e551f79fe8d15",
     "source.archive": "96291f9ad19b97caefcc2584fb5cb45610a8f99e4df3872e4500a8766b456968"
   },
-  "snapshot_identity": "0814e539557b21fff23a755c9c2fc465bec4a9f148f3921c194a8d4942b03558"
+  "snapshot_identity": "780b24b9031f87e50f74fbece43086e6bfd32e16d968fcd10cbbd4e62a354f75"
 }

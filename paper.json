@@ -31,6 +31,7 @@
     "concept_doi": "10.5281/zenodo.24213299",
     "current_version": 5,
     "doi": "10.5281/zenodo.24375698",
+    "kind": "note",
     "lean_source": null,
     "license": "CC-BY-4.0",
     "msc": [],
@@ -52,10 +53,12 @@
     "title": "Examples answering Bergman's Question 15 by extending a partition of von zur Gathen and Roche",
     "versions": [
       {
+        "changelog": null,
         "previous_version": null,
         "published_on": "2026-11-25T16:39:55.755803Z",
         "revision": "5",
-        "version": 5
+        "version": 5,
+        "version_label": null
       }
     ],
     "work": "bergman-question15"
